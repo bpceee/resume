@@ -1,12 +1,13 @@
 <html>
   <head>
-    <link id="styles" rel="stylesheet" href="about:blank" />
+    <title>Ken Bi's Resume</title>
   </head>
   <body>
     <div id="document"></div>
-    <script src="https://cdn.bootcss.com/jquery/3.0.0/jquery.min.js"></script>
-    <script src="https://cdn.bootcss.com/showdown/1.4.1/showdown.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.9.0/showdown.min.js"></script>
     <script>
+
     $(document).ready(function(){
       var conv = new showdown.Converter();
       var refreshPage = function(){
@@ -14,11 +15,27 @@
         $.ajax(docLink, {dataType:'text'}).then(function(md){
           $('#document').empty().append(conv.makeHtml(md));
         });
-        $('#styles').attr('href', '/css/' + docLink + '.css');
+        // $.ajax(`css/${docLink}.css`, {dataType:'text'}).then(function(style){
+        //   var styleEl = document.createElement('style');
+        //   document.head.appendChild(styleEl);
+        //   console.log(style)
+        //   styleEl.sheet.insertRule(style);
+        // });
+        addCSS(`css/${docLink}.css`);
       };
       $(window).on('hashchange', refreshPage);
       refreshPage();
     });
+
+    function addCSS(filename){
+      var head = document.getElementsByTagName('head')[0];
+
+      var style = document.createElement('link');
+      style.href = filename;
+      style.type = 'text/css';
+      style.rel = 'stylesheet';
+      head.append(style);
+    }
     </script>
   </body>
 </html>

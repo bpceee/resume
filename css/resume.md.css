@@ -1,12 +1,12 @@
-#kenpengchengbi + ul li em {
+h2:first-of-type + ul li em {
   display: inline-block;
   width: 3.5rem;
 }
 
-#kenpengchengbi + ul li em:after {
+h2:first-of-type + ul li em:after {
   content: ":";
 }
 
-#kenpengchengbi + ul li strong {
+h2:first-of-type + ul li strong {
   text-indent: 1em;
 }
