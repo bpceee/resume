@@ -1,0 +1,12 @@
+#kenpengchengbi + ul li em {
+  display: inline-block;
+  width: 3.5rem;
+}
+
+#kenpengchengbi + ul li em:after {
+  content: ":";
+}
+
+#kenpengchengbi + ul li strong {
+  text-indent: 1em;
+}
