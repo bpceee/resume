@@ -3,7 +3,7 @@
 * _Gender_ Male
 * _DOB_    Dec, 1986
 * _Email_  [bipengcheng@gmail.com](mailto:bipengcheng@gmail.com)
-* _MP_     +86-15618355373
+* _MP_     0284210027
 
 
 ## Summaries
@@ -29,7 +29,7 @@
 
 ## Experiences
 
-**Blackboard R&D Center, Shanghai - Senior Frontend Software Engineer** _Aug 2016 - Present_
+**Blackboard R&D Center, Shanghai - Senior Frontend Software Engineer** _Aug 2016 - Feb 2019_
 
 Learning Management System - Ultra (SaaS)
 
@@ -77,9 +77,8 @@ Android Pad Turn-key Solution
 
 
 ## Education
-* _Sep 2005 - Jul 2009_ Qingdao University - B.E. in Software Engineering
 * _Sep 2010 - Jul 2012_ Harbin Institute of Technology - M.S. in Computer Science
-
+* _Sep 2005 - Jul 2009_ Qingdao University - B.E. in Software Engineering
 
 ## Awards
 * _Mar 2016-2017_ Strong performance Employee, Blackboard Inc
