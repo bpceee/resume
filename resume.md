@@ -86,4 +86,8 @@ Android Pad Turn-key Solution
 * _Apr 2007_ First class scholarship, Qingdao University
 
 
+PTE Score: 63 (equivalent to IELTS 6.5)
+
+Personal Blog: [https://kennethbi.com](https://kennethbi.com)
+
 Online Version: [https://kennethbi.com/resume/#resume.md](https://kennethbi.com/resume/#resume.md)
