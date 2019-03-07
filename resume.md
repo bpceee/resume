@@ -8,19 +8,18 @@
 
 ## Summaries
 
-* 6+ years' experience in IT industry, latterly focused on Front End Web Developing.
-* Strong experience in Single Page Application development.
-* Hands on experience in Frontend performance tuning and optimization.
-* Skilled in state of art Frontend frameworks, such as AngularJS, React.
+* 6+ years' experience in IT industry, latterly focused on front-end web developing.
+* Skilled in state of art front-end frameworks, such as AngularJS, React & Redux.
+* Hands on experience with front-end performance tuning and optimization.
+* Experience with front-end testing using Jasmine, Karma, Jest, enzyme, etc.
 * Solid knowledge and understanding of common algorithms and data structures.
-* Good experience in scripts programming and Linux development server management.
 * Good practice in code and product management. Familiar with agile/scrum tools and process.
 * Excellent communication skills and strong customer and quality focus.
 
 ## Skills
-* Languages: JavaScript, TypeScript, HTML, CSS/SASS, Python, Java, C
+* Languages: JavaScript, TypeScript, HTML, CSS/SASS
 * Frameworks & Libraries: React, Redux, AngularJS, Lodash, JQuery, Bootstrap, Foundation
-* Building Tools: Webpack, Grunt, npm, yarn
+* Building Tools: Webpack, Grunt, NPM, yarn
 * Web Server: NodeJs, Express, Koa, Sequelize
 * Database: Mongodb, Mysql, Redis
 * Version Control: Git, Perforce
@@ -85,9 +84,4 @@ Android Pad Turn-key Solution
 * _Apr 2010_ First class scholarship, Harbin Institute of Technology
 * _Apr 2007_ First class scholarship, Qingdao University
 
-
-PTE Score: 63 (equivalent to IELTS 6.5)
-
 Personal Blog: [https://kennethbi.com](https://kennethbi.com)
-
-Online Version: [https://kennethbi.com/resume/#resume.md](https://kennethbi.com/resume/#resume.md)
