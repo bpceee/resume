@@ -20,7 +20,7 @@
 * Languages: JavaScript, TypeScript, HTML, CSS/SASS
 * Frameworks & Libraries: React, Redux, AngularJS, Lodash, JQuery, Bootstrap, Foundation
 * Building Tools: Webpack, Grunt, NPM, yarn
-* Web Server: NodeJs, Express, Koa, Sequelize
+* Web Server: NodeJS, Express, Koa, Sequelize
 * Database: Mongodb, Mysql, Redis
 * Version Control: Git, Perforce
 * Operating Systems: Mac OS, Linux
@@ -53,7 +53,7 @@ Interactive Online Video Platform (SaaS)
 Online Learning System & STEM Social Media
 
 * Design and implement restful API using NodeJS.
-* Integration of Amazon S3, Azure media services and QingClould.
+* Integration with AWS S3, Azure and Alibaba Cloud.
 * Build an AngularJS based website for online learning system.
 * Build up Prerender service to solve single page App SEO problems.
 
