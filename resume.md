@@ -48,7 +48,7 @@ Interactive Online Video Platform (SaaS)
 * Continuously optimizing for daily increasing requests by lazy loading, caching, utilizing various cloud services, etc.
 
 
-**Cloud3edu, Shanghai - Senior Software Engineer** _Jul 2014 - Aprl 2015_
+**Cloud3edu, Shanghai - Senior Software Engineer** _Jul 2014 - Apr 2015_
 
 Online Learning System & STEM Social Media
 
