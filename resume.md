@@ -1,32 +1,40 @@
 ## Ken (Pengcheng) Bi
 
-* _Gender_ Male
-* _DOB_    Dec, 1986
 * _Email_  [bipengcheng@gmail.com](mailto:bipengcheng@gmail.com)
-* _MP_     0284210027
+* _TEL_     0284210027
+* _Visa_ Residence
 
 
 ## Summaries
 
-* 6+ years' experience in IT industry, latterly focused on front-end web developing.
-* Skilled in state of art front-end frameworks, such as AngularJS, React & Redux.
-* Hands on experience with front-end performance tuning and optimization.
-* Experience with front-end testing using Jasmine, Karma, Jest, enzyme, etc.
+* 8+ years' experience in the IT industry, latterly focused on front-end web developing.
+* Professional skills around JavaScript/TypeScript and React/React-Native ecosystem.
+* Hands-on experience with front-end performance tuning and optimization.
 * Solid knowledge and understanding of common algorithms and data structures.
 * Good practice in code and product management. Familiar with agile/scrum tools and process.
-* Excellent communication skills and strong customer and quality focus.
 
 ## Skills
 * Languages: JavaScript, TypeScript, HTML, CSS/SASS
-* Frameworks & Libraries: React, Redux, AngularJS, Lodash, JQuery, Bootstrap, Foundation
-* Building Tools: Webpack, Grunt, NPM, yarn
+* Frameworks & Libraries: React, React-Native, Apollo, GraphQL, Redux, Lodash, AngularJS, JQuery, Bootstrap, Foundation
+* Testing Tools: Jest, react-testing-library, Storybook, 
+* Building Tools: Webpack, Expo, Grunt, NPM, yarn
 * Web Server: NodeJS, Express, Koa, Sequelize
 * Database: Mongodb, Mysql, Redis
 * Version Control: Git, Perforce
-* Operating Systems: Mac OS, Linux
 
 
 ## Experiences
+
+**Vet Radar, Auckland - Senior Software Engineer** _Mar 2019 - Present_
+
+Vet Clinic Workflow Management System (SaaS)
+
+* Participate in tech stack selection as a founding member. (AWS Appsync, Lambda, NodeJS, Apollo GraphQL, react-native-web)
+* Continuously deliver features as a full-stack engineer.
+* Use one codebase for iOS, Android & Web by leveraging react-native-web.
+* Create and maintain a front-end component library.
+* Mentor and learn with junior developers.
+
 
 **Blackboard R&D Center, Shanghai - Senior Frontend Software Engineer** _Aug 2016 - Feb 2019_
 
@@ -34,17 +42,17 @@ Learning Management System - Ultra (SaaS)
 
 * Collaborating with other members in and across scrum teams for new features' requirements analysis, architecture design, UX design verification, implementation, code review and bug fix.
 * Continuously improve product, development process, and quality of life within the organization as a member in Steering Committee.
-* Performance issues hunting and tuning. Reducing startup time and memory usage in a huge code base. 
+* Performance issues hunting and tuning. Reducing start-up time and memory usage in a huge code-base. 
 * Building process optimization. Reducing 40% incremental building time and 50% initial loading bundle size.
-* New web-frontend tech prototyping and adoption for the legacy product.
+* New web front-end tech prototyping and adoption for the legacy product. (React, Angular)
 
 
 **Video++, Shanghai - Senior Software Engineer** _May 2015 - Aug 2016_
 
 Interactive Online Video Platform (SaaS)
 
-* Build a AngularJS based console page, which supports multiple roles and permissions.
-* Build a React based third-part library for clients to inject it into their own sites.
+* Build a video resource management web application, which supports multiple user roles and permissions. (Node + AngularJS)
+* Build a ads third-party library for clients to inject it into their sites. (React)
 * Continuously optimizing for daily increasing requests by lazy loading, caching, utilizing various cloud services, etc.
 
 
@@ -52,9 +60,9 @@ Interactive Online Video Platform (SaaS)
 
 Online Learning System & STEM Social Media
 
-* Design and implement restful API using NodeJS.
+* Design and implement restful API. (NodeJS)
 * Integration with AWS S3, Azure and Alibaba Cloud.
-* Build an AngularJS based website for online learning system.
+* Build a web application for a online learning system. (AngularJS)
 * Build up Prerender service to solve single page App SEO problems.
 
 
@@ -62,26 +70,19 @@ Online Learning System & STEM Social Media
 
 E-commerce Search Engine
 
-* Bad case mining for product price inconsistence between online and local DB.（Using redis + scrapy + phantomjs to crawl pages from various e-commerce sites）
-* Monitor online logs, collect data and implement real-time presentation for dashboard.
+* Bad case mining for product price inconsistency between online and local DB.（Using redis + scrapy + phantomjs to crawl pages from various e-commerce sites）
+* Monitor online logs, collect data and implement real-time presentation for a dashboard. (Python)
 
 
 **MediaTek R&D Center, Hefei - Software Engineer** _Jul 2012 - Nov 2013_
 
 Android Pad Turn-key Solution
 
-* User Interface development for WIFI dongle.
-* Integrate new storage hardware into Linux Virtual File System.
-* Development and maintenance of Android camera middleware.
+* User Interface development for WI-FI dongle. (C/C++)
+* Integrate new storage hardware into Linux Virtual File System. (C/C++)
+* Development and maintenance of Android camera middleware. (C/C++)
 
 
 ## Education
 * _Sep 2010 - Jul 2012_ Harbin Institute of Technology - M.S. in Computer Science
 * _Sep 2005 - Jul 2009_ Qingdao University - B.E. in Software Engineering
-
-## Awards
-* _Mar 2016-2017_ Strong performance Employee, Blackboard Inc
-* _Apr 2010_ First class scholarship, Harbin Institute of Technology
-* _Apr 2007_ First class scholarship, Qingdao University
-
-Personal Blog: [https://kennethbi.com](https://kennethbi.com)
