@@ -1,8 +1,8 @@
 ## Ken (Pengcheng) Bi
 
 * _Email_  [bipengcheng@gmail.com](mailto:bipengcheng@gmail.com)
-* _TEL_     0284210027
-* _Visa_ Residence
+* _TEL_     +64284210027
+* _ADDR_ Auckland, New Zealand
 
 
 ## Summaries
@@ -86,3 +86,5 @@ Android Pad Turn-key Solution
 ## Education
 * _Sep 2010 - Jul 2012_ Harbin Institute of Technology - M.S. in Computer Science
 * _Sep 2005 - Jul 2009_ Qingdao University - B.E. in Software Engineering
+
+Online Version: [https://bpceee.github.io/resume/#resume.md](https://bpceee.github.io/resume/#resume.md)

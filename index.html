@@ -15,12 +15,6 @@
         $.ajax(docLink, {dataType:'text'}).then(function(md){
           $('#document').empty().append(conv.makeHtml(md));
         });
-        // $.ajax(`css/${docLink}.css`, {dataType:'text'}).then(function(style){
-        //   var styleEl = document.createElement('style');
-        //   document.head.appendChild(styleEl);
-        //   console.log(style)
-        //   styleEl.sheet.insertRule(style);
-        // });
         addCSS(`css/${docLink}.css`);
       };
       $(window).on('hashchange', refreshPage);
