@@ -25,7 +25,7 @@
 
 ## Experiences
 
-**Bybit, Auckland - Frontend Technical Expert** _Dec 2021 - Present_
+**Bybit, Auckland - Lead Software Engineer** _Dec 2021 - Present_
 
 Custom Service System / User Service System
 
