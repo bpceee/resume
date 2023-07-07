@@ -7,7 +7,7 @@
 
 ## Summaries
 
-* 10 years experience in the IT industry, latterly focused on front-end web development.
+* 10+ years experience in the IT industry, latterly focused on front-end web development.
 * Professional skills around JavaScript/TypeScript and React/React-Native ecosystem.
 * Hands-on experience with front-end performance tuning and optimization.
 * Solid knowledge and understanding of common algorithms and data structures.
@@ -15,17 +15,21 @@
 
 ## Skills
 * Languages: JavaScript, TypeScript, HTML, CSS/SASS
-* Frameworks & Libraries: React, React-Native, Next.js, Apollo, GraphQL, Redux, Lodash, AngularJS, JQuery 
+* Frameworks & Libraries: React, React-Native, Node.js, Next.js, Apollo, GraphQL, Redux, Lodash, AngularJS, JQuery 
 * Testing Tools: Jest, Cypres, Storybook, react-testing-library
-* Building Tools: Webpack, Expo, npm, yarn
-* Web Server: NodeJS, Express, Koa, Sequelize
-* Database: MongoDB, Mysql, Redis
-* Version Control: Git, Perforce
 
 
 ## Experiences
 
-**Bybit, Auckland - Lead Software Engineer** _Dec 2021 - Present_
+**Altered State Machine, Auckland - Senior Software Engineer** _Dec 2021 - Jul 2022_
+
+Blockchain protocol providing a decentralized AI development experiences.
+
+* A web game demonstrating AI Agent gamification using the protocol. (React, Typescript, Nodejs, GraphQL, AWS lambda, Terraform, etc.)
+* React sdk and documentation site for onchain asset registery (React, Typescript, Next.js, etc)
+
+
+**Bybit, Auckland - Lead Software Engineer** _Dec 2021 - Jul 2022_
 
 Custom Service System / User Service System
 
