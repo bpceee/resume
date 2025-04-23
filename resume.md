@@ -1,102 +1,92 @@
 ## Ken (Pengcheng) Bi
 
-* _Email_  [bipengcheng@gmail.com](mailto:bipengcheng@gmail.com)
-* _TEL_     +64284210027
-* _ADDR_ Auckland, New Zealand
-
+- _Email_ [bipengcheng@gmail.com](mailto:bipengcheng@gmail.com)
+- _TEL_ +64284210027
+- _ADDR_ Auckland, New Zealand
 
 ## Summaries
 
-* 10+ years experience in the IT industry, latterly focused on front-end web development.
-* Professional skills around JavaScript/TypeScript and React/React-Native ecosystem.
-* Hands-on experience with front-end performance tuning and optimization.
-* Solid knowledge and understanding of common algorithms and data structures.
-* Good practice in code and product management. Familiar with agile/scrum tools and processes.
+- Experienced full-stack engineer with a focus on JavaScript/TypeScript and the React/Node.js ecosystem.
+- Proven track record in building performant front-end applications.
+- Skilled in designing serverless architectures and deploying cloud-native apps on AWS.
+- Strong foundation in data structures, algorithms, and software design principles.
+- Experienced in agile environments with good practices in code quality, team collaboration, and product lifecycle management.
 
 ## Skills
-* Languages: JavaScript, TypeScript, HTML, CSS/SASS
-* Frameworks & Libraries: React, React-Native, Node.js, Next.js, Apollo, GraphQL, Redux, Lodash, AngularJS, JQuery 
-* Testing Tools: Jest, Cypres, Storybook, react-testing-library
 
+- Languages: JavaScript, TypeScript, HTML, CSS.
+- Frameworks & Libraries: React, React-Native, Node.js, Next.js, Apollo, GraphQL, AngularJS
+- Testing Tools: Jest, Cypres, Storybook, react-testing-library
 
 ## Experiences
 
-**Altered State Machine, Auckland - Senior Software Engineer** _Dec 2021 - Jul 2022_
+**Futureverse, Auckland - Senior Software Engineer** _Dec 2021 - Now_
 
-Blockchain protocol providing a decentralized AI development experiences.
+Asset Register. (React, Typescript, Node.js, Typescript, AWS Lambda, DynamoDB, SQS, EventBridge, etc)
 
-* A web game demonstrating AI Agent gamification using the protocol. (React, Typescript, Nodejs, GraphQL, AWS lambda, Terraform, etc.)
-* React sdk and documentation site for onchain asset registery (React, Typescript, Next.js, etc)
-
+- Participated in building an NFT indexer for global querying of NFT data in the Futureverse ecosystem.
+- Developed and maintained a GraphQL API for onchain asset querying and management.
+- Created a developer portal to showcase the usage of the Asset Register.
 
 **Bybit, Auckland - Lead Software Engineer** _Dec 2021 - Jul 2022_
 
 Custom Service System / User Service System
 
-* Lead and empower a team of frontend developers to build fast, easy-to-use, and sustainable web applications. (React)
-* Optimize the development process to enhance developer experience and productivity. (Lint, Testing, CI/CD, Mock Server)
-
+- Led and empowered a team of frontend developers to build fast, easy-to-use, and sustainable web applications. (React)
+- Optimized the development process to enhance developer experience and productivity. (Lint, Testing, CI/CD, Mock Server)
+- Code refactoring and performance tuning for the existing codebase.
 
 **ezyVet, Auckland - Senior Software Engineer** _Mar 2019 - Dev 2021_
 
 Vet Clinic Workflow Management System (SaaS)
 
-* Participate in tech stack selection as a founding member of the VetRadar team. (AWS Appsync, Lambda, NodeJS, Apollo GraphQL, react-native-web)
-* Continuously deliver features as a full-stack engineer.
-* Use one codebase for iOS, Android & Web by leveraging react-native-web.
-* Create and maintain a front-end component library.
-* Mentor and learn with junior developers.
-
+- Participated in tech stack selection as a founding member of the VetRadar team. (AWS Appsync, Lambda, NodeJS, Apollo GraphQL, react-native-web)
+- Chose to use one codebase for iOS, Android & Web by leveraging react-native-web.
+- Created and maintained a front-end component library.
 
 **Blackboard R&D Center, Shanghai - Senior Frontend Software Engineer** _Aug 2016 - Feb 2019_
 
 Learning Management System - Ultra (SaaS)
 
-* Collaborating with other members in and across scrum teams for new features' requirements analysis, architecture design, UX design verification, implementation, code review and bug fix.
-* Continuously improve product, development process, and quality of life within the organization as a member of the Steering Committee.
-* Performance issues hunting and tuning. Reducing start-up time and memory usage in a huge code-base. 
-* Building process optimization. Reducing 40% incremental building time and 50% initial loading bundle size.
-* State-of-the-art front-end tech prototyping and adoption for the legacy product. (React, Angular)
-
+- Collaborated with other members in and across scrum teams for new feature requirements analysis, architecture design, UX design verification, implementation, code review, and bug fixes.
+- Continuously improved the product, development process, and quality of life within the organization as a member of the Steering Committee.
+- Identified and resolved performance issues, reducing start-up time and memory usage in a large codebase.
+- Optimized the build process, reducing incremental build time by 40% and initial loading bundle size by 50%.
+- Prototyped and adopted state-of-the-art front-end technologies for the legacy product. (React, Angular)
 
 **Video++, Shanghai - Senior Software Engineer** _May 2015 - Aug 2016_
 
 Interactive Online Video Platform (SaaS)
 
-* Build a video resource management web application, which supports multiple user roles and permissions. (Node + AngularJS)
-* Build a ads third-party library for clients to inject into their sites. (React)
-* Continuously optimizing for daily increasing requests by lazy loading, caching, utilizing various cloud services, etc.
-
+- Built a video resource management web application that supported multiple user roles and permissions. (Node + AngularJS)
+- Developed an ads third-party library for clients to inject into their sites. (React)
 
 **Cloud3edu, Shanghai - Senior Software Engineer** _Jul 2014 - Apr 2015_
 
 Online Learning System & STEM Social Media
 
-* Design and implement restful API. (NodeJS)
-* Integration with AWS S3, Azure and Alibaba Cloud.
-* Build a web application for an online learning system. (AngularJS)
-* Build up Prerender service to solve the single-page App SEO problems.
-
+- Designed and implemented RESTful APIs. (NodeJS)
+- Built a web application for an online learning system. (AngularJS)
+- Developed a prerender service to solve single-page app SEO problems.
 
 **Baidu R&D Center, Shanghai - Software Engineer** _Nov 2013 - Jul 2014_
 
 E-commerce Search Engine
 
-* Bad case mining for product price inconsistency between online and local DB.（Using redis + scrapy + phantomjs to crawl pages from various e-commerce sites）
-* Monitor online logs, collect data and implement real-time presentations for a dashboard. (Python)
-
+- Conducted bad case mining for product price inconsistencies between online and local databases. (Used Redis, Scrapy, and PhantomJS to crawl pages from various e-commerce sites)
+- Monitored online logs, collected data, and implemented real-time presentations for a dashboard. (Python)
 
 **MediaTek R&D Center, Hefei - Software Engineer** _Jul 2012 - Nov 2013_
 
 Android Pad Turn-key Solution
 
-* User Interface development for WI-FI dongle. (C/C++)
-* Integrate new storage hardware into Linux Virtual File System. (C/C++)
-* Development and maintenance of Android camera middleware. (C/C++)
-
+- Developed the user interface for a Wi-Fi dongle. (C/C++)
+- Integrated new storage hardware into the Linux Virtual File System. (C/C++)
+- Developed and maintained Android camera middleware. (C/C++)
 
 ## Education
-* _Sep 2010 - Jul 2012_ Harbin Institute of Technology - M.S. in Computer Science
-* _Sep 2005 - Jul 2009_ Qingdao University - B.E. in Software Engineering
+
+- _Sep 2010 - Jul 2012_ Harbin Institute of Technology - M.S. in Computer Science
+- _Sep 2005 - Jul 2009_ Qingdao University - B.E. in Software Engineering
 
 Online Version: [https://bpceee.github.io/resume/#resume.md](https://bpceee.github.io/resume/#resume.md)
