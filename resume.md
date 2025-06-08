@@ -17,10 +17,11 @@
 - Languages: JavaScript, TypeScript, HTML, CSS.
 - Frameworks & Libraries: React, React-Native, Node.js, Next.js, Apollo, GraphQL, AngularJS
 - Testing Tools: Jest, Cypres, Storybook, react-testing-library
+- Cloud & DevOps: AWS (Lambda, DynamoDB, SQS, SNS, EventBridge), Docker, CI/CD
 
 ## Experiences
 
-**Futureverse, Auckland - Senior Software Engineer** _Dec 2021 - Now_
+**Futureverse, Auckland - Senior Software Engineer** _Dec 2021 - May 2025_
 
 Asset Register. (React, Typescript, Node.js, Typescript, AWS Lambda, DynamoDB, SQS, EventBridge, etc)
 
@@ -54,20 +55,17 @@ Learning Management System - Ultra (SaaS)
 - Optimized the build process, reducing incremental build time by 40% and initial loading bundle size by 50%.
 - Prototyped and adopted state-of-the-art front-end technologies for the legacy product. (React, Angular)
 
-**Video++, Shanghai - Senior Software Engineer** _May 2015 - Aug 2016_
+**Startups++, Shanghai - Senior Software Engineer** _Jul 2015 - Aug 2016_
 
-Interactive Online Video Platform (SaaS)
-
-- Built a video resource management web application that supported multiple user roles and permissions. (Node + AngularJS)
-- Developed an ads third-party library for clients to inject into their sites. (React)
-
-**Cloud3edu, Shanghai - Senior Software Engineer** _Jul 2014 - Apr 2015_
-
-Online Learning System & STEM Social Media
-
-- Designed and implemented RESTful APIs. (NodeJS)
-- Built a web application for an online learning system. (AngularJS)
-- Developed a prerender service to solve single-page app SEO problems.
+- Designed and developed responsive web applications for video resource management and online
+  learning platforms using AngularJS and Node.js.
+- Built and maintained multi-role access control systems to support complex user workflows.
+- Developed a React-based third-party advertising library for seamless client integration across various
+  websites.
+- Created RESTful APIs and backend services to support dynamic front-end experiences and data-driven
+  UIs.
+- Implemented a pre-rendering service to improve SEO performance for single-page applications,
+  increasing search visibility and crawlability.
 
 **Baidu R&D Center, Shanghai - Software Engineer** _Nov 2013 - Jul 2014_
 
