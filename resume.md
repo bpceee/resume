@@ -21,7 +21,7 @@
 
 ## Experiences
 
-**Futureverse, Auckland - Senior Software Engineer** _Dec 2021 - May 2025_
+**Futureverse, Auckland - Senior Software Engineer** _Jul 2022 - May 2025_
 
 Asset Register. (React, Typescript, Node.js, Typescript, AWS Lambda, DynamoDB, SQS, EventBridge, etc)
 
